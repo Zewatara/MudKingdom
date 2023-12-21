@@ -1,0 +1,21 @@
+{
+    "hustle":{
+        "sounds": ["custom:hustle"]
+    },
+    "rondeau":{
+        "sounds": ["custom:rondeau"]
+    },
+    "turning":{
+        "sounds": ["custom:turning"]
+    },
+    "townwindruins":{
+        "sounds": ["custom:townwindruins"]
+    },
+    "mirage":{
+        "sounds": ["custom:mirage"]
+    },
+    "windplainsnight":{
+        "sounds": ["custom:windplainsnight"]
+    }
+
+}
