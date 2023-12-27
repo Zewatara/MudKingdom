@@ -1,5 +1,5 @@
 Pack by Zewa
-Textures by Tune
+Textures by Tune and Zewa
 
 V0.2
 
